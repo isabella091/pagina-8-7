@@ -1,36 +1,36 @@
 .contenedor{
     width: 1400px;
-    height: 150px;
-    background-color: rgb(255, 0, 64);
-    font-size: 100px;
+    height: 230px;
+    background-color: aqua;
+    font-size: 50px;
     }
     
     .Tecnologia {
         width: 1400px;
-        height: 400px;
-        background-color: rgb(210, 255, 127);
+        height: 430px;
+        background-color: aquamarine;
     }
     
     .biologia {
     width: 1400px;
     height: 400px;
-    background-color: rgb(160, 99, 95);
+    background-color: cadetblue;
     }
     
     .quimica {
     width: 1400px;
-    height: 400px;
-    background-color: rgb(25, 0, 255);
+    height: 500px;
+    background-color: chartreuse;
     }
     
     .matematicas {
     width: 1400px;
     height: 730px;
-    background-color: rgb(208, 255, 0);
+    background-color: rgb(230, 242, 6);
     }
     
     .ingles {
     width: 1400px;
-    height: 400px;
-    background-color: rgb(238, 144, 222);
+    height: 1450px;
+    background-color: lightgreen;
     }

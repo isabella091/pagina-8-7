@@ -32,412 +32,73 @@ body{
 
 }
 
-.ovulacionfemenina{
-height: 1100px;
-width: 2400px;
-background-image: url(ovulacionfemenina.jpg);
+.img1{
+    height: 300px;
+    width: 400px;
+   background-image: url("transtornos alimenticios");
+
 
 }
 
-.fasesciclo{
-height: 700px;
-width: 1400px;
+.progesterona{
+height: 500px;
+width: 800px;
+background-image: url(progesterona.jpg);
+
+}
+
+.Fasesdelciclomenstrual{
+height: 500px;
+width: 1500px;
 background-image: url(fases-ciclo-menstrual.jpg);
 
 }
 
-.fasesfolicular{
-height: 600px;
+.fasefolicularciclomenstrual{
+height: 500px;
+width: 400px;
+background-image: url(fase-folicular-ciclo-menstrual.jpg);
+
+}
+
+.desarrollofolicular{
+height: 500px;
 width: 650px;
-background-image: url(fase-folicular.jpg);
+background-image: url(desarrollo-folicular-y-dia-de-ciclo1-670x285.jpg);
 
 }
 
-.faseovulatoria{
+.endometrio{
 height: 500px;
 width: 700px;
-background-image: url(desarrollo-folicular.jpg);
+background-image: url(endometrio-en-el-ciclo-menstrual-670x285.jpg);
 
 }
 
-.endometriomenstrual{
-height: 600px;
-width: 700px;
-background-image: url(endometrio-en-el-ciclo.jpg);
-
-}
-
-.isquemica{
-height: 700px;
-width: 1500px;
-background-image: url(ciclo-menstrual.jpg);
-
-}
-
-.SINTOMAS{
-height: 1500px;
-width: 2400px;
-background-image: url(sintomas-ciclo-menstrual.jpg);
-
-}
-
-.sangre{
+.faseisquemica{
 height: 500px;
 width: 800px;
-background-image: url(colores-en-la-sangre-.jpg);
+background-image: url(fase-isquemica-ciclo-menstrual.heic);
 
 }
 
-.ELECTRICO{
-height: 450px;
+.sintomasciclomenstrual{
+height: 500px;
+width: 3000px;
+background-image: url(sintomasfasesciclo-menstrual.jpg)
+
+}
+
+.colordesangrado{
+height: 500px;
 width: 750px;
-background-image: url(circuito-eléctrico.jpg);
+background-image: url(color-de-la-menstruacion.jpg)
 
 }
 
-.CIRCUITO{
-height: 400PX;
-width: 750px;
-background-image: url(electrico.jpg);
-
-}
-
-.SERIE{
-height: 700px;
-width: 1200px;
-background-image: url(circuito-serie.jpg);
-
-}
-
-.paralelo{
-height: 700px;
-width: 1250px;
-background-image: url(paralelo.jpg);
-
-}
-
-.cerrado{
-height: 150px;
-width: 300px;
-background-image: url(cerrado.jpg);
-
-}
-
-.abierto{
-height: 300px;
-width: 600px;
-background-image: url(abierto.jpg);
-
-}
-
-.cortocircuito{
+.anorexia{
 height: 500px;
-width: 500px;
-background-image: url(cortocircuito.jpg);
-
-}
-
-.circuitos{
-height: 600px;
-width: 1100px;
-background-image: url(circuitos.jpg);
-
-}
-
-.simple{
-height: 700px;
-width: 1000px;
-background-image: url(simple.jpg);
-
-}
-
-.transtornos{
-height: 600px;
-width: 450px;
-background-image: url(trastornos_alimenticios.jpg);
-
-}
-
-.saludable{
-height: 200px;
-width: 300px;
-background-image: url(habitos.jpeg);
-
-}
-
-.agua{
-height: 200px;
-width: 300px;
-background-image: url(agua.jpeg);
-
-}
-
-.ejercicio{
-height: 500px;
-width: 700px;
-background-image: url(ejercicio.jpg);
-
-}
-
-.sueño{
-height: 500px;
-width: 1500px;
-background-image: url(shutterstock_1756229882-1200x675.jpg);
-
-}
-
-.estres{
-height: 500px;
-width: 450px;
-background-image: url(estres.jpg);
-
-} 
-
-.sucios{
-height: 1200px;
-width: 1600px;
-background-image: url(sucios.jpg);
-
-}
-
-.saludable{
-height: 200px;
-width: 300px;
-background-image: url(saludable.jpeg);
-
-}
-
-.saludmental{
-height: 600px;
-width: 700px;
-background-image: url(saludmental.jpeg);
-
-}
-
-.personal{
-height: 900px;
-width: 1600px;
-background-image: url(desarrollo.jpg);
-
-}
-
-.medica{
-height: 800px;
-width: 900px;
-background-image: url(medicina.jpg)
-
-}
-
-.salud{
-height: 200px;
-width: 300px;
-background-image: url(ambiente.jpeg)
-
-}
- 
-.gas{
-height: 400px;
-width: 600px;
-background-image: url(gas.jpg)
-
-}
-
-.atomo{
-height: 150px;
-width: 200px;
-background-image: url(triangulo.jpeg);
-
-}
-
-.tabla{
-height: 350px;
-width: 300px;
-background-image: url(Tabla.jpg);
-
-}
-
-.risa{
-height: 700px;
-width: 1000px;
-background-image: url(pauli.jpg);
-
-}
-
-.necesito{
-height: 500px;
-width: 700px;
-background-image: url(deshidratacion.png);
-
-}
-
-.pereza{
-height: 200px;
 width: 400px;
-background-image: url(tv.jpeg);
-
-}
-
-.nodormir{
-height: 200px;
-width: 400px;
-background-image: url(no\ dormir.jpeg);
-
-}
-
-.operaciones{
-height: 200px;
-width: 300px;
-background-image: url(operaciones.jpeg);
-
-}
-
-.resta{
-height: 550px;
-width: 700px;
-background-image: url(resta.jpg);
-
-}
-
-.isa{
-height: 700px;
-width: 1000px;
-background-image: url(restass.jpg);
-
-}
-.nicol{
-height: 200px;
-width: 400px;
-background-image: url(rata.jpg);
-
-}
-.nito{
-height: 600px;
-width: 800px;
-background-image: url(torta.jpg);
-
-}
-
-.mano{
-height: 100px;
-width: 210px ;
-background-image: url(ella.png);
-
-}
-
-.R{
-height: 200px;
-width: 300px;
-background-image: url(okey.jpeg);
-
-}
-
-.Juanda{
-height: 200px;
-width: 300px;
-background-image: url(factor.jpeg);
-
-}
-
-.Alex{
-height: 700px;
-width: 1300px;
-background-image: url(cuadrado.jpg);
-
-}
-
-.Vera{
-height: 600px;
-width: 1500px;
-background-image: url(binomio.jpg);
-
-}
-
-.camacho{
-height: 600px;
-width: 1200px;
-background-image: url(amores.jpg);
-
-}
-
-.socio{
-height: 400px;
-width: 400px;
-background-image: url(banana.jpg);
-
-}
-
-.Paola{
-height: 800px;
-width: 1200px;
-background-image: url(cubo.jpg);
-
-}
-
-.negro{
-height: 200px;
-width: 300px;
-background-image: url(mario.jpeg);
-}
-
-.mauro{
-height: 500px;
-width: 1250px;
-background-image: url(saul.jpg);
-
-}
-
-.lloro{
-height: 1100px;
-width: 1250px;
-background-image: url(maria.jpg)
-
-}
-
-.juan{
-height: 150px;
-width: 200px;
-background-image: url(suciio.jpeg)  
-
-
-}
-.julio{
-height: 200px;
-width: 200px;
-background-image: url(amor.jpeg);
-
-}
-
-.jose{
-height: 200px;
-width: 300px;
-background-image: url(manu.jpeg);
-
-}
-
-.salo{
-height: 200px;
-width: 450px;
-background-image: url(rubia.jpeg);
-
-}
-
-.TEAMO{
-Height: 700px;
-width: 850px;
-background-image:url(personal.jpg)
-
-}
-
-.susto{
-Height: 750px;
-width: 850px;
-background-image: url(burra.jpg)
-
-}
-
-.chanda{
-Height: 200px;
-width: 300px;
-background-image: url(frente.jpeg)
+background-image: url(anorexia.jpg);
 
 }

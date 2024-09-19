@@ -10,11 +10,10 @@
 .principal{
    display: flex;
      
-}
-body{
-    background-image: url("pexels-mdsnmdsnmdsn-1831234.jpg");
+   
+    background-image: url(negra.jpg);
     background-repeat: no-repeat;
-
+   
 }
 
 .img1{

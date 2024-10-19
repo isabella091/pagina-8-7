@@ -360,21 +360,110 @@ background-image: url(borrador.png);
 
 }
 
-.ionico{
-height: 200px;
-width: 450px;
-background-image: url(ionico.png);
-
-}
-
-.formacion{
+.atomo{
 height: 400px;
-width: 470px;
-background-image: url(formacion.jpg);
+width: 640px;
+background-image: url(atomos.webp)
 
 }
 
+.sodio{
+height: 280px;
+width: 280px;
+background-image: url(sodio.jpg);
 
+}
 
+.cloro{
+height: 380px;
+width: 390px;
+background-image: url(cloro.jpg);
 
+}
 
+.junto{
+height: 250px;
+width: 680px;
+background-image: url(juntos.jpg);
+
+}
+
+.polar{
+height: 500px;
+width: 1000px;
+background-image: url(polar.jpg);
+
+}
+
+.no{
+height: 200px;
+width: 250px;
+background-image: url(no\ polar.jpg);
+
+}
+
+.london{
+height: 180px;
+width: 320px;
+background-image: url(london.jpg);
+
+}
+
+.hidrogeno{
+height: 400px;
+width: 750px;
+background-image: url(enlace.png);
+
+}
+
+.binomio{
+height: 500px;
+width: 800px;
+background-image: url(cuadradito.webp);
+
+}
+
+.dos{
+height: 800px;
+width: 1200px;
+background-image: url(dos.jpg);
+
+}
+
+.sumas{
+height: 150px;
+width: 340px;
+background-image: url(sumita.jpg);
+
+}
+
+.terminos{
+    height: 200px;
+    width: 240px;
+    background-image: url(comun.png)
+
+}
+
+.perfecto{
+    height: 500px;
+    width: 610px;
+    background-image: url(notable.jpg) 
+}
+
+.trinomio{
+    height: 400px;
+    width: 510px;
+    background-image: url(forma.jpg)
+}
+
+.meno{
+    height: 700px;
+    width: 1500px;
+    background-image: url(diferencia.jpg)
+}
+
+.nico{
+    height: 170px;
+    width: 300px;
+    background-image: url(nicol.png)  
+}

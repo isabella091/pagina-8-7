@@ -467,3 +467,51 @@ background-image: url(sumita.jpg);
     width: 300px;
     background-image: url(nicol.png)  
 }
+
+.simple{
+    height: 400px;
+    width: 500px;
+    background-image: url(NICOL.webp)
+}
+
+.sip{
+    height: 160px;
+    width: 230px;
+    background-image:url(ISA.jpg) 
+}
+
+.mono{
+    height: 300px;
+    width: 500px;
+    background-image: url(monoss.jpg)
+}
+   
+.suaza{
+height: 600px;
+width: 900px;
+background-image: url(sopass.jpg);
+
+}
+.muerda{
+height: 200px;
+width: 270px;
+background-image: url( sebastian.jpg);
+
+}
+
+.mosca{
+
+height: 240px;
+width: 200px;
+background-image: url(imagenesta.jpg);
+
+}
+
+.medellin{
+
+height: 200px;
+width: 190px;
+background-image: url(mushasha.jpg);
+
+}
+

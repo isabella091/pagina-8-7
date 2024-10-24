@@ -353,9 +353,9 @@ background-image: url(furgon.png);
 
 }
 
-.mosca{
-height: 200px;
-width: 450px;
+.borrador{
+height: 150px;
+width: 440px;
 background-image: url(borrador.png);
 
 }
@@ -515,3 +515,8 @@ background-image: url(mushasha.jpg);
 
 }
 
+.never{
+    height: 200px;
+    width: 190px;
+    background-image: url(sapis.png) 
+}
